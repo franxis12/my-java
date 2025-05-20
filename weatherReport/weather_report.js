@@ -1,4 +1,4 @@
-const apiKey = "974c2d461f5fa397a2ca10f0aa2bf549";
+const apiKey = "API KEY";
 
 function showweatherDetails(event) {
   event.preventDefault();
