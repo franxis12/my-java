@@ -1,4 +1,4 @@
-const apiKey = "974c2d461f5fa397a2ca10f0aa2bf549"; // ← reemplaza esto con tu clave real
+const apiKey = "API KEY";
 
 document.getElementById("buscarBtn").addEventListener("click", () => {
   const ciudad = document.getElementById("ciudad").value;
